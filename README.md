@@ -1,4 +1,4 @@
-# HOTEL WEBPAGE DEMO
+# TRAVEL BOOKING WEBPAGE DEMO
 
 **Advanced CSS and Sass**
 
